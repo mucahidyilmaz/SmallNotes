@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SmallNotes</string>
+    <string name="open">aç</string>
+    <string name="close">kapat</string>
+    <string name="title_activity_note_details">Not Düzenle</string>
+    <string name="title_activity_add_note">Not Ekle</string>
+</resources>
